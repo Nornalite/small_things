@@ -7,3 +7,4 @@ A module for using the in-built timer1 on the Arduino Uno. Written for the [Sped
 ### Haalarimerkki 
 Adjustable lights for a patch (in progress, as it has been for a year now. Pray for its completion.)
 ![Taustavaloprototyyppi](haalarimerkki/haalarimerkki.jpg?raw=true "Prototyyppi")
+![Taustavalojen pcb](haalarimerkki/haalarimerkki_pcb.png?raw=true "Tuskallinen väkerrys")
